@@ -1,0 +1,3 @@
+D:\University\Term5\Data Base\Final Project\Final Project\TestDB\bin\Debug\TestDB.exe.config
+D:\University\Term5\Data Base\Final Project\Final Project\TestDB\obj\Debug\TestDB.exe
+D:\University\Term5\Data Base\Final Project\Final Project\TestDB\obj\Debug\TestDB.pdb
